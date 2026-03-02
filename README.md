@@ -2,8 +2,8 @@
 How to push local repository to remote repository
 ---
 1. create a local repository
-   > mkdir local-repo
-   > cd local-repo
+   > mkdir local-repo<br>
+   > cd local-repo<br>
    > echo "# local-repo" >> README.md  
 
 2. initalize it
