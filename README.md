@@ -26,3 +26,8 @@ How to push local repository to remote repository
 
 8. push to remote-repo
    > git push -u origin main
+
+---
+Updated README.md file in remote-repo.<br>
+<p>To get those changes into our local repo, use the below pull command</p> 
+> git pull origin main
